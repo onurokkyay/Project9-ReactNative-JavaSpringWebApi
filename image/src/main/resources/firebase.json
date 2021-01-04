@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165732810337",
+    "firebase_url": "https://nesnealgilama-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nesnealgilama",
+    "storage_bucket": "nesnealgilama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165732810337:android:fb3e7f5ded74a2ae767420",
+        "android_client_info": {
+          "package_name": "com.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165732810337-s45c0dju99smkr6092h63p69596pvgbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPazbRwqD3M7oCy9OY4ZUn_AFmH93Q1eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165732810337-s45c0dju99smkr6092h63p69596pvgbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
